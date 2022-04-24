@@ -43,3 +43,6 @@ A DC-to-DC boost converter circuit is a circuit that can convert a DC voltage in
 
 ### *Project Title chosen*
 * First chosen an LED banner project with 8*8 display, having some issues in hex file and chosen a Digital Voltmeter, then taking research with this project.
+<a href="https://app.codiga.io/public/user/github/Govindharaju19">
+   <img src="https://api.codiga.io/public/badge/user/github/Govindharaju19?style=light" alt="codiga badge" />
+</a>
