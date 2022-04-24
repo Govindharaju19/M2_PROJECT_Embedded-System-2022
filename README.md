@@ -7,6 +7,7 @@ The purpose of the project is to build a DC to DC Boost Converter based on Atmeg
 ![image](https://user-images.githubusercontent.com/94169022/144423516-ba68848f-7b55-469e-a7c4-ae55f50eb284.png)
 
 ![image](https://user-images.githubusercontent.com/94169022/144423644-d6b9bfe6-9f49-4515-bf37-b895c926825a.png)
+[![Analysis](https://github.com/Govindharaju19/M2_PROJECT_Embedded-System-2022/actions/workflows/Analysis.yml/badge.svg)](https://github.com/Govindharaju19/M2_PROJECT_Embedded-System-2022/actions/workflows/Analysis.yml)
 
 
 
